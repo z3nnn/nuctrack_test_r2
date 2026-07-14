@@ -66,24 +66,26 @@ You can now choose 2 ways:
 To batch process the whole folder:
 
 1. Open Fiji and launch **Plugins → Tracking → NucTrack**
-2. In the plugin window, check batch mode box, and load the input root folder `Mic10KD_Ctrl` using the Browse button
-3. Load the segmented object filename, in this case `segmito.tif` using its Browse button
-4. Load the tracked object filename, in this case `tracks.mdf` using its Browse button
-5. Set the output folder to a folder of your choice
-6. Observe the preview panel — if you selected batch, there is no preview
-7. Press **Process** and wait for processing to complete
-8. Open the output folder and check that result files were generated
+2. Check the tooltips! If something is not clear they have useful information
+3. In the plugin window, check batch mode box, and load the input root folder `Mic10KD_Ctrl` using the Browse button
+4. Load the segmented object filename, in this case `segmito.tif` using its Browse button
+5. Load the tracked object filename, in this case `tracks.mdf` using its Browse button
+6. Set the output folder to a folder of your choice
+7. Observe the preview panel — if you selected batch, there is no preview
+8. Press **Process** and wait for processing to complete
+9. Open the output folder and check that result files were generated
 
 To process a single folder:
 
 1. Open Fiji and launch **Plugins → Tracking → NucTrack**
-2. In the plugin window, and load the the following files
-3. Load the reference object segmented file, in this case `segmito.tif` using its Browse button
-4. Load the tracked object tracking file, in this case `tracks.mdf` using its Browse button
-5. Set the output folder to a folder of your choice
-6. Observe the preview panel — to see the preview of the loaded files
-7. Press **Process** and wait for processing to complete
-8. Open the output folder and check that result files were generated
+2. Check the tooltips! If something is not clear they have useful information
+3. In the plugin window load the following files
+4. Load the reference object segmented file, in this case `segmito.tif` using its Browse button
+5. Load the tracked object tracking file, in this case `tracks.mdf` using its Browse button
+6. Set the output folder to a folder of your choice
+7. Observe the preview panel — to see the preview of the loaded files
+8. Press **Process** and wait for processing to complete
+9. Open the output folder and check that result files were generated
 
 ---
 
