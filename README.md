@@ -16,7 +16,7 @@ Please follow the steps below before filling out the feedback form.
 
 ---
 
-What are we doing?
+# What are we doing?
 
 We are testing a plugin to calculate relative movement of an object moving inside another, this is a common case in biology with organelles and other cells where there is one container and things move inside of it, in this case mithocondria with nucleoids, the purpose of the plugin is to reduce the cognitive load of learning new tools that people working in biology might have to use for obtaining data for analysis.
 
