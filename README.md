@@ -66,7 +66,7 @@ You can now choose 2 ways:
 To batch process the whole folder:
 
 1. Open Fiji and launch **Plugins → Tracking → NucTrack**
-2. Check the tooltips! If something is not clear they have useful information
+2. Check the tooltips! If you dont understand something they have useful information
 3. In the plugin window, check batch mode box, and load the input root folder `Mic10KD_Ctrl` using the Browse button
 4. Load the segmented object filename, in this case `segmito.tif` using its Browse button
 5. Load the tracked object filename, in this case `tracks.mdf` using its Browse button
@@ -78,8 +78,8 @@ To batch process the whole folder:
 To process a single folder:
 
 1. Open Fiji and launch **Plugins → Tracking → NucTrack**
-2. Check the tooltips! If something is not clear they have useful information
-3. In the plugin window load the following files
+2. Check the tooltips! If you dont understand something they have useful information
+3. In the plugin window load the following files for a folder, for example `Mic10ctrl_0`
 4. Load the reference object segmented file, in this case `segmito.tif` using its Browse button
 5. Load the tracked object tracking file, in this case `tracks.mdf` using its Browse button
 6. Set the output folder to a folder of your choice
