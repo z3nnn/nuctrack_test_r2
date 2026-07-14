@@ -12,6 +12,8 @@ Please follow the steps below before filling out the feedback form.
   - You can now choose to batch process a folder with the files
 - Tooltips (information when hovering mouse on UI)
 
+<img width="833" height="704" alt="interfaz" src="https://github.com/user-attachments/assets/d2a9c2ea-a487-493b-929e-49757670cce6" />
+
 ---
 
 ## Prerequisites
